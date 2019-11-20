@@ -41,7 +41,11 @@ After that data folder need to be like it:
 │   └── dog
 ```
 
+Splitting data:
 
 
+```bash
+python3 split_data.py
+```
 
 

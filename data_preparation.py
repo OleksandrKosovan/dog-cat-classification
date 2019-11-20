@@ -4,6 +4,9 @@ from tqdm import tqdm
 
 NEW_DATA_PATH = 'data/'
 
+if not os.path.exists(NEW_DATA_PATH):
+    os.makedirs(NEW_DATA_PATH)
+
 if not os.path.exists(os.path.join(NEW_DATA_PATH, 'dog')):
     os.makedirs(os.path.join(NEW_DATA_PATH, 'dog'))
 
@@ -19,4 +22,3 @@ for file in tqdm(os.listdir(DATA_PATH)):
     os.rename(os.path.join(DATA_PATH, file), os.path.join(NEW_DATA_PATH, new_file))
 
 os.rmdir(DATA_PATH)
-
