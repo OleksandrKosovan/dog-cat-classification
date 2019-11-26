@@ -1,6 +1,11 @@
-# Work in progress....
-
 # Dog-Cat classification
+
+![img](https://miro.medium.com/max/3840/1*oB3S5yHHhvougJkPXuc8og.gif)
+
+[The Dogs vs. Cats dataset](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data) is a standard computer vision dataset that involves classifying photos as either containing a dog or cat.
+
+Although the problem sounds simple, it was only effectively addressed in the last few years using deep learning convolutional neural networks.
+
 
 
 # 1. Get started
