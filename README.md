@@ -10,7 +10,7 @@ Although the problem sounds simple, it was only effectively addressed in the las
 # Content
 
 - [Results](https://github.com/OleksandrKosovan/dog-cat-classification#results)
-- [Get started](https://github.com/OleksandrKosovan/dog-cat-classification#results)
+- [Get started](https://github.com/OleksandrKosovan/dog-cat-classification#get-started)
 
 
 # Results
