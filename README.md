@@ -7,8 +7,20 @@
 Although the problem sounds simple, it was only effectively addressed in the last few years using deep learning convolutional neural networks.
 
 
+# Content
 
-# 1. Get started
+- [Results]()
+- [Get started]()
+
+
+# Results
+
+| Approach  | Accuracy |
+| ------------- | ------------- |
+| Baseline model  |  84,54% |
+
+
+# Get started
 
 Create folder for data.
 
